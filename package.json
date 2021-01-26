@@ -1,0 +1,22 @@
+{
+  "name": "lambda-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohr-cloud/lambda-sql.git"
+  },
+  "keywords": [
+    "serverless"
+  ],
+  "author": "Lucas Boemeke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohr-cloud/lambda-sql/issues"
+  },
+  "homepage": "https://github.com/bohr-cloud/lambda-sql#readme"
+}
